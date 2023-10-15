@@ -15,7 +15,7 @@ git clone https://github.com/awkwardpy/ATM.git
 2. Compile the code using a C compiler. For example, you can use GCC to build the executable:
 
 ```bash
-gcc ATM.c -o atm
+gcc ATM.c -o ATM
 ```
 
 3. Run the program:
